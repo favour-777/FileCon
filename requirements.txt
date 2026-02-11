@@ -1,0 +1,13 @@
+customtkinter
+pillow
+tkinterdnd2
+pydub
+moviepy
+python-docx
+pdf2image
+fpdf2
+markdown
+xhtml2pdf
+tabulate
+openpyxl
+pandas
